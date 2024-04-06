@@ -34,7 +34,7 @@ Ce dépôt contient les codes des TPs et des examens TP l'UV SY02 de l'Universit
 
 ## 📔 - Auteurs et contributeurs
 
--  **[Th3o-D](https://github.com/Th3o-D/)**
+-  **[theodubus](https://github.com/theodubus/)**
 
 ## 📑 - Références
 - **Lien moodle vers le cours** : [moodle-SY02](https://moodle.utc.fr/course/view.php?id=1717)
