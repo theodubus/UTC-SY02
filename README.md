@@ -1,41 +1,23 @@
-# UTC-SY02-TP
-Ce dépôt contient les codes des TPs et des examens TP l'UV SY02 de l'Université de Technologie de Compiègne. 
+# UTC-SY02
 
-## 🗂️ - Arborescence du projet
+Méthodes statistiques pour l'ingénieur — mes TP de l'UV **SY02** de l'UTC, en R. Chaque dossier contient le sujet, le corrigé en PDF et les jeux de données utilisés.
 
-. \
-├── 📄 [LICENSE](./LICENSE) \
-├── 📄 [README.md](./README.md) \
-├── 📁 [Exam_TP](./Exam_TP) \
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...\
-├── 📁 [TP1](./TP1) \
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...\
-├── 📁 [TP2](./TP2) \
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...\
-├── 📁 [TP3](./TP3) \
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...\
-├── 📁 [TP4](./TP4) \
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...\
-├── 📁 [TP5](./TP5) \
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...\
-├── 📁 [TP6](./TP6) \
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...\
-└── 📁 [TP7](./TP7) \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...
+## Travaux pratiques
 
+| | Au programme |
+|---|---|
+| **[TP1](TP1)** | Prise en main de R : vecteurs, affectations, types |
+| **[TP2](TP2)** | Statistique descriptive : histogrammes et premiers résumés |
+| **[TP3](TP3)** | Simulation et échantillonnage |
+| **[TP4](TP4)** | Lois de probabilité : densités, khi-deux |
+| **[TP5](TP5)** | Régression linéaire avec `lm` |
+| **[TP6](TP6)** | Tests d'hypothèses et intervalles de confiance |
+| **[TP7](TP7)** | Tests appariés sur données réelles |
 
-## 👨‍💻 - Langage utilisé
+## Révisions d'examen
 
-- R
+Le dossier [`Exam_TP/`](Exam_TP) regroupe mes révisions pour l'examen machine : reprise des premiers TP, intervalles de confiance, régression linéaire, et le sujet d'automne 2022.
 
-## 📝 - Licence
+## Licence
 
-[MIT](LICENSE)
-
-## 📔 - Auteurs et contributeurs
-
--  **[theodubus](https://github.com/theodubus/)**
-
-## 📑 - Références
-- **Lien moodle vers le cours** : [moodle-SY02](https://moodle.utc.fr/course/view.php?id=1717)
-- **Lien vers site du cours** : [site-SY02](https://sy02.uv.utc.fr/etus/index.html)
+[MIT](LICENSE) — [theodubus](https://github.com/theodubus/)
