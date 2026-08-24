@@ -1,0 +1,5 @@
+# Artefacts R
+.Rhistory
+.RData
+.Rproj.user/
+!*/cctp_A2022.RData
